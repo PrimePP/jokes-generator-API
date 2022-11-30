@@ -2,4 +2,4 @@
 #### fetching jokes from dad jokes
 ![](./project-img.png)
 
-[Deployed Link]()
+[Deployed Link](https://bejewelled-mooncake-56dcd3.netlify.app/)
